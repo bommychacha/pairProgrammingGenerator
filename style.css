@@ -1,0 +1,39 @@
+body {
+	background-image: url("http://us.123rf.com/450wm/eyematrix/eyematrix1401/eyematrix140100002/24905867-green-hexadecimal-computer-code-repeating-vector-background-wallpaper.jpg");
+}
+
+h1 {
+	margin-top: 40px;
+	color: #7CE577;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+h1 span {
+		background-color: rgba(0,0,0,0.3);
+
+}
+table {
+	margin: 70px auto;
+	background-color: rgba(0,0,0,0.3);
+}
+body thead td {
+		color: #9CFFD9;
+		font-size: 35px;
+		font-family: 'Amaranth', sans-serif;
+		text-decoration: underline;
+		padding: 0px 0px 20px 0px;
+		background-color: rgba(0,0,0,0.3);
+}
+td:first-of-type {
+	padding-right: 50px;
+}
+td:nth-child(2) {
+	padding-left: 50px;
+}
+#tableBody {
+	color: #B6EFD4;
+	font-size: 18px;
+	line-height: 24px;
+	font-family: 'Amaranth', sans-serif;
+}
